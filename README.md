@@ -22,7 +22,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=H4X-GG" alt="H4X-GG" /></a> </p>
 
-![Alt text](https://github.com/H4X-GG/APP/blob/main/b82153004032d70b8dbf7be5042177b4.jpg)
+![Alt text](https://github.com/H4X-GG/APP/blob/main/8c4b994473d5aeb0a63cd0f13a3e329f.jpg)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -40,11 +40,6 @@
 <p align="left">
 <a href="https://wa.me/8801982386362?text=Assalamualaikum%20Mehedi%20(H4X)%20" target="blank"><img align="center" src="https://github.com/H4X-GG/APP/blob/main/565d10f8de6d9e9b29586c23d487ed7f.jpg" alt="theorygg1" height="30" width="40" /></a>
 </p>
-
-<p align="left">
-<a href="https://t.me/h4xtermux" target="blank"><img align="center" src="https://github.com/H4X-GG/APP/blob/main/2952b7f67446895f8f11c3afacc89edc.jpg" alt="theorygg1" height="30" width="40" /></a>
-</p>
-
 
 
 
