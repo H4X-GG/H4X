@@ -1,4 +1,4 @@
-<p align="center"><img src="https://img.shields.io/badge/IM FROM%20 BANGLADESH-IM ONLY 15 YEARS OLD-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/IM FROM%20 BANGLADESH-IM ONLY 16 YEARS OLD-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 <h3 align="center">
 
@@ -32,15 +32,6 @@
 <p align="left">
 <a href="https://www.facebook.com/theorygg1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theorygg1" height="30" width="40" /></a>
 </p>
-
-<p align="left">
-<a href="https://youtube.com/@H4XTERMUX" target="blank"><img align="center" src="https://github.com/H4X-GG/APP/blob/main/9a59817eac70327b226ee3fe81f200c5.jpg" alt="theorygg1" height="30" width="40" /></a>
-</p>
-
-<p align="left">
-<a href="https://wa.me/8801982386362?text=Assalamualaikum%20Mehedi%20(H4X)%20" target="blank"><img align="center" src="https://github.com/H4X-GG/APP/blob/main/565d10f8de6d9e9b29586c23d487ed7f.jpg" alt="theorygg1" height="30" width="40" /></a>
-</p>
-
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=THANKS+FOR+VISITING+MY+PROFILE)](https://git.io/typing-svg)
